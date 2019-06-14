@@ -1,0 +1,1 @@
+{"actions":[],"activities":{},"meta":{},"events":[],"value":"red","context":{"timesBlinked":5},"event":{"type":"TOGGLE"},"historyValue":{"current":"yellow","states":{}},"history":{"actions":[],"activities":{},"meta":{},"events":[],"value":"yellow","context":{"timesBlinked":4},"event":{"type":"TOGGLE"},"historyValue":{"current":"yellow","states":{}}},"changed":true}
